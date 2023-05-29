@@ -9,137 +9,137 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CuaHangHung
 build_property.RootNamespace = CuaHangHung
-build_property.ProjectDir = c:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\CuaHangHung\CuaHangHung\
+build_property.ProjectDir = C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\CuaHangHung\CuaHangHung\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\CuaHangHung\CuaHangHung
+build_property.MSBuildProjectDirectory = C:\Users\ADMIN\OneDrive - Hanoi University of Mining and Geology\Desktop\CuaHangHung\CuaHangHung
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/HoaDon/Create.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/HoaDon/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/HoaDon/Delete.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/HoaDon/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/HoaDon/Details.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/HoaDon/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/HoaDon/Edit.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/HoaDon/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/HoaDon/Index.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/HoaDon/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Home/Index.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Home/Privacy.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/KhachHang/Create.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/KhachHang/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/KhachHang/Delete.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/KhachHang/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/KhachHang/Details.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/KhachHang/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/KhachHang/Edit.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/KhachHang/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/KhachHang/Index.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/KhachHang/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Kho/Create.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Kho/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Kho/Delete.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Kho/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Kho/Details.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Kho/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Kho/Edit.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Kho/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Kho/Index.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Kho/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/NhanVien/Create.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/NhanVien/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/NhanVien/Delete.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/NhanVien/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/NhanVien/Details.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/NhanVien/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/NhanVien/Edit.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/NhanVien/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/NhanVien/Index.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/NhanVien/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/SanPham/Create.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/SanPham/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/SanPham/Delete.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/SanPham/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/SanPham/Details.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/SanPham/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/SanPham/Edit.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/SanPham/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/SanPham/Index.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/SanPham/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Shared/Error.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/_ViewImports.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/_ViewStart.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Shared/_Layout.cshtml]
+[C:/Users/ADMIN/OneDrive - Hanoi University of Mining and Geology/Desktop/CuaHangHung/CuaHangHung/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3cjc8oc80v
